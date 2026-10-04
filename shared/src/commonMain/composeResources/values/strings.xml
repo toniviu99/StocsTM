@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StocsTM</string>
+    <string name="app_subtitle">Llista de la compra TM</string>
+
+    <string name="notifications">Notificacions</string>
+    <string name="profile">Perfil</string>
+
+    <string name="shopping_list_title">Llista de la compra</string>
+    <string name="to_buy_count">4 per comprar</string>
+    <string name="auto_sorted">Ordenat automàticament</string>
+
+    <string name="chip_need_to_buy">Cal comprar</string>
+    <string name="chip_running_low">Poc estoc</string>
+    <string name="chip_stocked">En estoc</string>
+
+    <string name="tab_all">Tots els productes</string>
+    <string name="tab_need_to_buy">Per comprar</string>
+    <string name="tab_stocked">En estoc</string>
+
+    <string name="section_need_to_buy">Cal comprar ara</string>
+    <string name="section_running_low">S'esgotaran aviat</string>
+    <string name="section_running_low_sub">Propers 1–2 dies</string>
+    <string name="section_stocked">En estoc a casa</string>
+    <string name="items_count">%d productes</string>
+    <string name="zero_items">0 productes</string>
+
+    <string name="status_ran_out">Esgotat</string>
+    <string name="status_due_in_days">Caduca en %d dia</string>
+    <string name="status_stocked">En estoc</string>
+    <string name="category_food">Alimentació</string>
+    <string name="lasts_days">Dura ~%d dies</string>
+    <string name="buy_early">Comprar abans</string>
+    <string name="days_left">Queden %d dies</string>
+    <string name="add_product">Afegir producte</string>
+    <string name="mark_bought">Marcar com a comprat</string>
+    <string name="options">Opcions</string>
+    <string name="expand">Desplegar</string>
+</resources>
